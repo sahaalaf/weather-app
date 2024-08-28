@@ -12,15 +12,12 @@ Welcome to the Weather Application! This app provides real-time weather updates,
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  
-- **Styling:**  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  
-- **APIs:**     ![OpenWeather](https://img.shields.io/badge/OpenWeather-ff8c00?style=for-the-badge&logo=OpenWeather&logoColor=white)
-  
-- **Mapping:**  ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-  
-- **Routing:**  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+| **Frontend:** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
+| :-----------: | :-------------------------------------------------------------------------------------------------: |
+| **Styling:**  | ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **APIs:**     | ![OpenWeather](https://img.shields.io/badge/OpenWeather-ff8c00?style=for-the-badge&logo=OpenWeather&logoColor=white) |
+| **Mapping:**  | ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) |
+| **Routing:**  | ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) |
 
 ## 📸 Screenshots
 
